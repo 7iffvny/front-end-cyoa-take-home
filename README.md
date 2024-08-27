@@ -97,5 +97,5 @@ $ yarn install
 Mailchimp Coloring
 https://ux.mailchimp.com/patterns/color
 
-Material UI
-Bootstrap
+- Material UI
+- Bootstrap
