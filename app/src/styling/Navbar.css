@@ -1,0 +1,28 @@
+.nav-bar {
+    background-color: #FFFFFF;
+    padding: 10px 20px;
+    color: #000000;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.nav-logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.nav-icon {
+    display: flex;
+    align-items: center;
+}
+
+.icon-img {
+    width: 24px; 
+    height: 24px;
+}

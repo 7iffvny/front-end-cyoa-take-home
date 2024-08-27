@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Mailchimp",
+            "database": "${workspaceFolder:front-end-cyoa-take-home}/database.sqlite3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
